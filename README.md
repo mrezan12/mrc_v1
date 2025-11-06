@@ -139,9 +139,6 @@ Renkleri `lib/theme/app_colors.dart` dosyasına ekleyin ve helper metodlar oluş
 - Animasyonlar isteğe bağlı olarak kaldırılabilir
 - Tüm renkler merkezi `AppColors` kütüphanesinden yönetilir
 
- 📄 Lisans
-
-Bu proje özel bir projedir.
 
  👥 Geliştirici
 
